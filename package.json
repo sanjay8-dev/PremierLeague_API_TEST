@@ -1,0 +1,16 @@
+{
+  "name": "pl_api",
+  "version": "1.0.0",
+  "description": "This is an api consisting of all teams in pl and their detail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjay Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}

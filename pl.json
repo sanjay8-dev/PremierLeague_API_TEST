@@ -1,0 +1,71 @@
+{
+    "Arsenal":{
+        "id" : 1,
+        "nickname":"The Gunners",
+        "founded":"October 1886",
+        "ground":"Emirates Stadium",
+        "owner":"Kroenke",
+        "currentManager":"Mikel Arteta",
+        "website":"https://www.arsenal.com",
+        "crest":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",
+        "content": "Arsenal Football Club is a professional football club based in Islington, London, England that plays in the Premier League, the top flight of English football. The club has won 13 league titles (including one unbeaten title), a record 14 FA Cups, two League Cups, 16 FA Community Shields, the League Centenary Trophy, one European Cup Winners' Cup, and one Inter-Cities Fairs Cup."
+
+    },
+    "Chelsea":{
+        "id" : 2,
+        "nickname":"The Blues",
+        "founded":"March 1905",
+        "ground":"Stamford Bridge",
+        "owner":"Roman Abrahamovich",
+        "currentManager":"Thomas Tuchel",
+        "website":"https://www.chelseafc.com",
+        "crest":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",
+        "content": "Chelsea Football Club is an English professional football club based in Fulham, London. Founded in 1905, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over thirty competitive honours, including six league titles and six European trophies. Their home ground is Stamford Bridge."
+    },
+    "Livepool":{
+        "id" : 3,
+        "nickname":"The Reds",
+        "founded":"June 1892",
+        "ground":"Anfield",
+        "owner":"Fenway Sports Group",
+        "currentManager":"Jurgen Klopp",
+        "website":"https://www.liverpoolfc.com",
+        "crest":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/270px-Liverpool_FC.svg.png",
+        "content": "Liverpool Football Club is a professional football club in Liverpool, England, that competes in the Premier League, the top tier of English football. Domestically, the club has won nineteen League titles, seven FA Cups, a record eight League Cups and fifteen FA Community Shields. In international competitions, the club has won six European Cups, more than any other English club, three UEFA Cups, four UEFA Super Cups (also English records) and one FIFA Club World Cup."
+
+    },
+    "Manchester City":{
+        "id" : 4,
+        "nickname":"The Citizens",
+        "founded":"April 1894",
+        "ground":"Ethihad Stadium",
+        "owner":"City Football Group",
+        "currentManager":"Pep Guardiola",
+        "website":"https://www.mancity.com",
+        "crest":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/270px-Manchester_City_FC_badge.svg.png",
+        "content":"Manchester City Football Club is an English football club based in Manchester that competes in the Premier League, the top flight of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. The club's home ground is the Etihad Stadium in east Manchester, to which it moved in 2003, having played at Maine Road since 1923. The club adopted their sky blue home shirts in 1894 in the first season of the club's current iteration, that have been used ever since."
+    },
+    "Manchester United":{
+        "id" : 5,
+        "nickname":"The Red Devils",
+        "founded":"March 1902",
+        "ground":"Old Trafford",
+        "owner":"The Glazer Family",
+        "currentManager":"Ole Gunnar Solskjær",
+        "website":"https://www.manutd.com",
+        "crest":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/270px-Manchester_United_FC_crest.svg.png",
+        "content":"Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed \"the Red Devils\", the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910."
+    },
+    "Tottenham Hotspur":{
+        "id" : 6,
+        "nickname":"Spurs",
+        "founded":"September 1882",
+        "ground":"Tottenham Hotspur Stadium",
+        "owner":"ENIC International Ltd.",
+        "currentManager":"Ryan Mason",
+        "website":"https://www.tottenhamhotspur.com",
+        "crest":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/165px-Tottenham_Hotspur.svg.png",
+        "content":"Tottenham Hotspur Football Club, commonly referred to as Tottenham (/ˈtɒtənəm/)[2][3] or Spurs, is an English professional football club in Tottenham, London, that competes in the Premier League. Tottenham Hotspur Stadium has been the club's home ground since April 2019, replacing their former home of White Hart Lane, which had been demolished to make way for the new stadium on the same site. Their training ground is on Hotspur Way in Bulls Cross in the London Borough of Enfield. The club is owned by ENIC Group. Tottenham have played in a first (home) strip of white shirts and navy blue shorts since the 1898–99 season. The club's emblem is a cockerel standing upon a football, with a Latin motto Audere est Facere (\"To Dare Is to Do\")."
+    }
+    
+}
